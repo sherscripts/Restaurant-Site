@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> Sign In</title>
+  <meta name="viewport" content="width=10px, initial-scale=1">
+
+
+</head>
+
+<body  required style="background-color:#6799A4;">
+  <link rel="stylesheet" href="login.css">
+
+
+
+  <form action="restaurant1.html" method="post">
+    <div class="imgcontainer">
+      <img src="cute.jpg" alt="Avatar" class="avatar">
+    </div>
+
+    <div class="container">
+      <label for="uname" required style="color: white;">Username</label>
+      <input type="text" placeholder="Enter Username" name="uname" required style="color: white;">
+    </div>
+
+    <div class="container">
+      <label for="psw" required style="color: white;">Password</label>
+      <input type="password" placeholder="Enter Password" id="myInput" name="psw" required style="color: white;">
+      <br><br>
+    </div>
+    <div class="container">
+      <input type="checkbox" required style="color: white;" onclick="myFunction()"> <label for="uname" required
+      style="color: white;">Show Password</label>
+
+      <script>
+        function myFunction() 
+        {
+          var x = document.getElementById("myInput");
+          if (x.type === "password") {
+            x.type = "text";
+          } else {
+            x.type = "password";
+          }
+        }
+      </script>
+
+      <p align="center">
+        <button type="submit" required style="color: white;">Sign In</button>
+      </p>
+    
+
+    <div class="container" style="background-color:#6799A4">
+      <button type="button" class="cancelbtn" required style="color: white;">Cancel</button>
+      <span class="psw"> <a href="#" required style="color: white;">Forgot password?</a></span><br>
+      <span class="psw1"> <a href="#" required style="color: white;margin-bottom: 4cm;">Don't have an account?</a></span>
+    </div>
+ 
+  </div>
+</body>
+
+</html>
