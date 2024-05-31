@@ -1,15 +1,25 @@
 This is a simple restaurant website made using HTML , CSS ,JavaScript.
 
-![sher (2)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/bbb8855e-2af1-46af-b3f0-b116987c38d5)
+# **Home Page**
 
-![sher (1)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/8f4c57dc-5626-4e2a-9fa3-724e6ee0c5bc)
+![sher (2)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/b0fb77b1-93a7-499b-8119-ea18e0615de6)
+![sher (1)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/3a0f1d9f-57b9-4f7d-8e49-f3c9ed121c79)
+![sher (7)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/77c1bee8-efce-4984-8e2a-b6b2b8822072)
 
-![sher (4)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/69b4dd0e-57ec-43b0-a84f-5201f872a053)
+#**Login Page**
 
-![sher (3)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/5295e0c8-fb26-43db-9900-d6e115f406a7)
+![sher (3)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/f04da9da-8e5f-4eb7-8c76-b3bbb6fc9df3)
 
-![sher (6)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/86e21539-cdf4-4718-83cc-22f596cf16f7)
- 
- ![image](https://github.com/sherscripts/Restaurant-Site/assets/93700487/718876ea-99b1-412d-b7f0-da2063ab9650)
+#**Contact Page**
 
-![sher (5)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/b0ba8a4b-330d-41b4-b820-a6bc3e70ab3b)
+![sher (4)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/9dd3e13e-dcb7-484e-ada5-5f85676d0318)
+
+#**Menu Page**
+
+![sher (6)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/fa1460c2-e45b-4786-ab97-031b563b54e7)
+![image](https://github.com/sherscripts/Restaurant-Site/assets/93700487/b89800da-1ba4-4f19-8f66-704c1396f84b)
+
+
+#**About Page**
+
+![sher (5)](https://github.com/sherscripts/Restaurant-Site/assets/93700487/a863ec20-b1b7-49ae-9ab2-cacf891c7a0a)
